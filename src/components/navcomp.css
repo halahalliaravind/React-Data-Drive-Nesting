@@ -1,0 +1,26 @@
+.navbar-item {
+    background-color: #b0ddde;
+    cursor: pointer;
+    padding: 10px;
+    padding-bottom: 3px;
+    font-size: 15px;
+    margin: 5px;
+  }
+  
+  .navbar-item:hover {
+    transition: 500ms ease;
+    filter: brightness(1.15);
+  }
+  
+  img {
+    padding: 0 5px;
+  }
+  
+  .heading-wrapper {
+    display: flex;
+    align-items: center;
+  }
+  
+  .children-wrapper {
+    margin-top: 10px;
+  }
